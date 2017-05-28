@@ -1,0 +1,22 @@
+{
+  "name": "bluemix-nodejs-starter",
+  "description": "A sample application which can be deployed to IBM Bluemix",
+  "version": "0.0.1",
+  "author": {
+    "name": "Patrick Kleindienst",
+    "email": "pk070@hdm-stuttgart.de"
+  },
+  "dependencies": {
+      "express": "^4.15.3",
+      "jade": "^1.11.0"
+  },
+  "repository": {
+    "type":"git",
+    "url": "https://github.com/dev4cloud/bluemix-nodejs-starter.git"
+  },
+  "engines": {
+    "node": "6.10.x",
+    "npm": "3.10.x"
+  },
+  "license": "MIT"
+}

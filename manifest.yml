@@ -1,0 +1,5 @@
+---
+applications:
+  - name: bluemix-nodejs-starter
+    domain: mybluemix.net
+    memory: 512M
